@@ -80,7 +80,8 @@ To Get a Local Copy of the Project Up and Running, Follow These Steps:
 
 ### Contributors
 - kitarth Shrivastav - []
-- Rudra Sharma - [sharmarudra761@gmail.com] 
+- Rudra Sharma - [sharmarudra761@gmail.com]
+- Vijay Anand Revanur- []
 
 Project Link: https://github.com/Vijay-AR/Olympus
 
